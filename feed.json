@@ -1,9 +1,10 @@
 [
   {
-    "uid": "mleague-setup-20261122",
-    "updateDate": "2026-11-22T02:00:00.0Z",
-    "titleText": "Mリーグ結果報告",
-    "mainText": "Mリーグ結果報告の配信を準備しています。明日の朝から、前日の結果をお届けします。",
+    "uid": "mleague-test-20261122",
+    "updateDate": "2026-11-22T02:06:00.0Z",
+    "titleText": "Mリーグ結果報告 連携テスト",
+    "mainText": "Mリーグ結果報告の音声連携テストです。",
+    "streamUrl": "https://torufujimori600-gif.github.io/mleague-audio/audio/test_alexa.mp3",
     "redirectionUrl": "https://m-league.jp/"
   }
 ]
