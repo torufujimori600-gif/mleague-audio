@@ -1,10 +1,10 @@
 [
   {
-    "uid": "mleague-20261123",
-    "updateDate": "2026-11-23T21:26:39Z",
-    "titleText": "Mリーグ結果 11月23日",
-    "mainText": "おはようございます。11月24日、昨日のMリーグの結果です。昨日は2つの卓で、あわせて4試合です。",
-    "streamUrl": "https://torufujimori600-gif.github.io/mleague-audio/audio/mleague_20261123.mp3",
+    "uid": "mleague-20261124",
+    "updateDate": "2026-11-24T21:24:17Z",
+    "titleText": "Mリーグ結果 11月24日",
+    "mainText": "おはようございます。11月25日、昨日、11月24日のMリーグの結果です。昨日は2つの卓で、あわせて4試合が行われました。",
+    "streamUrl": "https://torufujimori600-gif.github.io/mleague-audio/audio/mleague_20261124.mp3",
     "redirectionUrl": "https://m-league.jp/"
   }
 ]
